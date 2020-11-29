@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.11.27a">
-<!ENTITY md5       "d85448a19f5a1fc4c306c6f1bfdf8044">
+<!ENTITY version   "2020.11.29">
+<!ENTITY md5       "6b4d900fdddc9e1b9fcc7f8ab53c3e41">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,7 @@
 
 <CHANGES>
 ###To be released
+- Sort repository list with maintainers with bio's first
 - Add menu searching for favourite repository
 - Remove concept of recommended apps
 - Favourite repository will appear first in any repository list
