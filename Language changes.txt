@@ -1,0 +1,18 @@
+
+Favourite Repository
+Clear Search
+Repositories
+Favourite Repo
+FILTERS
+Removed favourite repository
+%s set as favourite repository
+Click to remove favourite repository
+Click to set %s as favourite repository
+Search for apps in repository
+
+
+
+HELP TEXT
+
+
+This sets a favourite repository which will appear first in any search result
