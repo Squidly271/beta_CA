@@ -9,7 +9,33 @@ Removed favourite repository
 Click to remove favourite repository
 Click to set %s as favourite repository
 Search for apps in repository
+No description present
+Go to the forum page
+Go to the webpage
+Go to reddit
+Go to facebook
+Go to discord
+Go to forum profile
 
+
+
+POPUP
+
+Favourite Repository
+Total Applications
+Total Known Downloads
+Total Docker Applications
+Total Plugin Applications
+Total Languages
+Average Downloads Per App
+Web Page
+Forum
+Forum Profile
+Facebook
+Reddit
+Twitter
+Discord
+Search Apps
 
 
 HELP TEXT

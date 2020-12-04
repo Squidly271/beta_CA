@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.11.29">
-<!ENTITY md5       "6b4d900fdddc9e1b9fcc7f8ab53c3e41">
+<!ENTITY version   "2020.12.04">
+<!ENTITY md5       "77aae84b69c03cc408003564266b0053">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,8 @@
 
 <CHANGES>
 ###To be released
+- Repository Popups
+- Fixed: Deprecated apps with branches were being counted multiple times
 - Sort repository list with maintainers with bio's first
 - Add menu searching for favourite repository
 - Remove concept of recommended apps
