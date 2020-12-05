@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.12.04d">
-<!ENTITY md5       "8f2de8df07dafd249efe267ec0ef1821">
+<!ENTITY version   "2020.12.05">
+<!ENTITY md5       "2b06240652942e23f728fb5c9339c006">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,7 @@
 
 <CHANGES>
 ###To be released
+- 6.8 compatibility
 - Repository Popups
 - Fixed: Deprecated apps with branches were being counted multiple times
 - Sort repository list with maintainers with bio's first
