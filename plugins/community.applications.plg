@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.12.06">
-<!ENTITY md5       "741a2afc7e52482fb9144b1f9a053295">
+<!ENTITY version   "2020.12.06a">
+<!ENTITY md5       "a1201085f02fc71efe834960cbde284a">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,7 @@
 
 <CHANGES>
 ###To be released
+- Jump to repo profile from any app popup
 - 6.8 compatibility
 - Repository Popups
 - Fixed: Deprecated apps with branches were being counted multiple times
