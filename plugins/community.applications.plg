@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.12.06a">
-<!ENTITY md5       "a1201085f02fc71efe834960cbde284a">
+<!ENTITY version   "2020.12.06b">
+<!ENTITY md5       "574b3c8b5aa70063250581b955b15c73">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,7 @@
 
 <CHANGES>
 ###To be released
+- Fixed: Statistics / Incompatible was showing wrong apps
 - Jump to repo profile from any app popup
 - 6.8 compatibility
 - Repository Popups
