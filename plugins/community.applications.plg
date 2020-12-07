@@ -2,8 +2,8 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2020.12.06d">
-<!ENTITY md5       "1127b68018741e3edfba53039e0d1775">
+<!ENTITY version   "2020.12.07">
+<!ENTITY md5       "1563150d453a2d829e1ae18b74f7dff9">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/beta_CA">
@@ -14,6 +14,7 @@
 
 <CHANGES>
 ###To be released
+- Add readmore to repo tile
 - Fixed: Statistics / Incompatible was showing wrong apps
 - Jump to repo profile from any app popup
 - 6.8 compatibility
