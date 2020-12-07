@@ -23,6 +23,7 @@ Read more
 POPUP
 
 Favourite Repository
+Set as favourite repository
 Total Applications
 Total Known Downloads
 Total Docker Applications
